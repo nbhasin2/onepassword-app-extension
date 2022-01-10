@@ -1,4 +1,4 @@
-# 1Password App Extension
+# 1Password App Extension 
 
 [![CocoaPods](https://img.shields.io/cocoapods/l/1PasswordExtension.svg)](https://github.com/AgileBits/onepassword-app-extension/blob/master/LICENSE.txt)
 [![CocoaPods](https://img.shields.io/cocoapods/v/1PasswordExtension.svg)](https://github.com/AgileBits/onepassword-app-extension/wiki/CocoaPods)
